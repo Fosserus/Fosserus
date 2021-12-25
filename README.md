@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fosserus
 - 👀 I’m interested in software development and game development.
-- 🌱 I’m currently learning frontend web development (HTML5, CSS, JS, etc)
+- 🌱 I’m currently learning Java Development and C++ game development in Unreal. 
 - 📫 How to reach me: Email me at npowellwork@gmail.com!
 
 <!---
