@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Fosserus
+- 👋 Hi, I’m Nathan
 - 👀 I’m interested in software development and game development.
-- 🌱 I’m currently learning Java Development and C++ game development in Unreal. 
+- 🌱 I’m currently learning C++ development. 
 - 📫 How to reach me: Email me at npowellwork@gmail.com!
 
 <!---
