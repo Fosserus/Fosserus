@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathan
-- 👀 I’m interested in software development and game development.
-- 🌱 I’m currently learning C++ development. 
+- 👀 I’m interested in C++ and full stack web development at the moment.
+- 🌱 I’m currently learning the basics of web development 
 - 📫 How to reach me: Email me at npowellwork@gmail.com!
 
 <!---
