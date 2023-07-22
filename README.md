@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathan
-- 👀 I’m a C++ developer
-- 🌱 I’m currently learning various C++ libraries.
+- 👀 I’m an aspiring C++ developer
+- 🌱 I’m currently learning various C++ libraries and advancing my skills in the language.
 - 📫 How to reach me: Email me at composer2002@gmail.com!
 
 <!---
